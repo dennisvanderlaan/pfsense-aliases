@@ -12,3 +12,9 @@ policykeyservice.dc.ad.msft.net
 ctldl.windowsupdate.com
 www.microsoft.com/pkiops
 mscrl.microsoft.com
+adminwebservice.microsoftonline.com
+bba800-anchor.microsoftonline.com
+login.microsoftonline.com
+provisioningapi.microsoftonline.com
+bwsc02-relay.microsoftonline.com
+bba900-anchor.microsoftonline.com
