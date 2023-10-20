@@ -4,8 +4,8 @@
 *.microsoft.com
 *.msappproxy.com
 *.windowsazure.com
-mscrl.microsoft.com:80
-crl.microsoft.com:80
-ocsp.msocsp.com:80
-www.microsoft.com:80
+mscrl.microsoft.com
+crl.microsoft.com
+ocsp.msocsp.com
+www.microsoft.com
 login.windows.net
