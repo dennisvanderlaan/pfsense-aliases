@@ -1,0 +1,11 @@
+*.msappproxy.net
+*.servicebus.windows.net
+*.microsoftonline.com
+*.microsoft.com
+*.msappproxy.com
+*.windowsazure.com
+mscrl.microsoft.com:80
+crl.microsoft.com:80
+ocsp.msocsp.com:80
+www.microsoft.com:80
+login.windows.net
